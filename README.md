@@ -8,3 +8,4 @@
   <p>- Foi utulizado Responsividade nesse projeto</p>
   <P>- HTML</P>
   <P>- CSS</P>
+  <P>- JAVA SCRIPT</P>
